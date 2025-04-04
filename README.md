@@ -29,6 +29,9 @@ focado em produtos de tecnologia. A aplicação permite o controle de usuários,
 ```bash
 # Clonar o repositório
 $ git clone https://github.com/CarolGuimaraess/Tecnologia-Certa.git
+
+# Entrar no diretório
+$ cd Tecnologia-Certa
  
 # Instalar as dependências
 $ npm install
