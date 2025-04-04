@@ -14,7 +14,7 @@
 <br>
  
 <p align="center">
-<img alt="projeto Tecnologia Certa" src=".src/assets/img/BOLETO.png" width="100%">
+<img alt="projeto Tecnologia Certa" src="src/assets/img/BOLETO.png" width="100%">
 </p>
  
 ## 🚀 Tecnologias
@@ -32,5 +32,5 @@ Um sistema de gerenciamento de estoque focado em produtos de tecnologia. A aplic
 ## 🔖 Layout
  
 <p align="center">
-<img alt="projeto Tecnologia Certa" src=".src/assets/img/BOLETO.png" width="100%">
+<img alt="projeto Tecnologia Certa" src="src/assets/img/BOLETO.png" width="100%">
 </p>
