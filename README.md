@@ -5,7 +5,7 @@
 <a href="#-layout">Layout</a>
 </p>
 </br>
-✨ Principais Funcionalidades:</br>
+<p>✨ Principais Funcionalidades:</p>
   <p>👤 Cadastro e login de usuário</p>
   <p>🧾 Geração de boletos em PDF para download</p>
   <p>🔍 Pesquisa de produtos</p>
