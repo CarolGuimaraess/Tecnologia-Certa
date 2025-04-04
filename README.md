@@ -21,7 +21,21 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
  
 O Tecnologia Certa é um sistema de gerenciamento de estoque
-Um sistema de gerenciamento de estoque focado em produtos de tecnologia. A aplicação permite o controle de usuários, produtos e ainda gera boletos em PDF. 
+focado em produtos de tecnologia. A aplicação permite o controle de usuários, produtos e ainda gera boletos em PDF. 
+
+## ⚡ Como baixar o projeto
+</br>
+ 
+```bash
+# Clonar o repositório
+$ git clone https://github.com/CarolGuimaraess/Tecnologia-Certa.git
+ 
+# Instalar as dependências
+$ npm install
+ 
+# Iniciar o projeto
+$ npm run dev
+```
 
 ## 🔖 Layout
 
