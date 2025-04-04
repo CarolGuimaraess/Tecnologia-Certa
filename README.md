@@ -1,9 +1,9 @@
 <h1 align="center"> Sistema de Gerenciamento de Estoque </h1>
 
 ✨ Principais Funcionalidades:
-  👤 Cadastro e login de usuário
-  🧾 Geração de boletos em PDF para download
-  🔍 Pesquisa de produtos 
+  <p>👤 Cadastro e login de usuário</p>
+  <p>🧾 Geração de boletos em PDF para download</p>
+  <p>🔍 Pesquisa de produtos</p>
 
 <p align="center">
 <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
