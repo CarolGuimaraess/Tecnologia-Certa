@@ -39,7 +39,7 @@ $ npm install
 # Iniciar o projeto
 $ npm run dev
 ```
-O download do boleto depende de outro projeto que precisa estar em execução: https://github.com/CarolGuimaraess/Banco-Brasil-PDF
+O download do boleto depende de outro projeto que precisa estar em execução (Solicitar acesso): https://github.com/CarolGuimaraess/Banco-Brasil-PDF
 
 ## 🔖 Layout
 
