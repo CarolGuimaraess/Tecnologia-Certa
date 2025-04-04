@@ -26,17 +26,17 @@ Um sistema de gerenciamento de estoque focado em produtos de tecnologia. A aplic
 ## 🔖 Layout
 
 <p align="center">
-<img alt="projeto Tecnologia Certa" src="src/assets/img/LOGIN.png" width="100%">
+<img alt="login" src="src/assets/img/LOGIN.png" width="100%">
 </p>
 <p align="center">
-<img alt="projeto Tecnologia Certa" src="src/assets/img/CADASTRO" width="100%">
+<img alt="cadastro" src="src/assets/img/CADASTRO.png" width="100%">
 </p>
 <p align="center">
-<img alt="projeto Tecnologia Certa" src="src/assets/img/ESTOQUE" width="100%">
+<img alt="estoque" src="src/assets/img/ESTOQUE.png" width="100%">
 </p>
 <p align="center">
-<img alt="projeto Tecnologia Certa" src="src/assets/img/PESQUISAR.png" width="100%">
+<img alt="pesquisar" src="src/assets/img/PESQUISAR.png" width="100%">
 </p>
 <p align="center">
-<img alt="projeto Tecnologia Certa" src="src/assets/img/BOLETO.png" width="100%">
+<img alt="boleto" src="src/assets/img/BOLETO.png" width="100%">
 </p>
