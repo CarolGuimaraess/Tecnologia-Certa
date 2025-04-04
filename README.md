@@ -2,10 +2,10 @@
 <p align="center">
 <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#-layout">Layout</a>;
+<a href="#-layout">Layout</a>
 </p>
 </br>
-✨ Principais Funcionalidades:
+✨ Principais Funcionalidades:</br>
   <p>👤 Cadastro e login de usuário</p>
   <p>🧾 Geração de boletos em PDF para download</p>
   <p>🔍 Pesquisa de produtos</p>
